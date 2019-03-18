@@ -3,7 +3,7 @@
 //True is 1
 #define TRUE 1
 
-//False is -1
+//False is 0
 #define FALSE 0
 
 typedef struct Node* LINK;
